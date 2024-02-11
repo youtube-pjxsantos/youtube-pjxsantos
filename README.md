@@ -5,4 +5,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/youtube-pjxsantos/youtube-pjxsantos/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Pjxsantos/snake](https://github.com/Pjxsantos/snake)_
+_Generated with [Pjxsantos/snake](https://github.com/Pjxsantos/snake)_
