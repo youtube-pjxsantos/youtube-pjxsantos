@@ -3,7 +3,7 @@ name: gerar animação
 on: 
   # executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */1 * * *" 
   
   # permite executar manualmente o trabalho a qualquer momento
   workflow_dispatch:
