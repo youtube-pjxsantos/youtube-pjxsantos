@@ -1,6 +1,6 @@
 name: gerar animação
 
-on:
+on: 
   # executa automaticamente a cada 24 horas
   schedule:
     - cron: "0 */24 * * *" 
