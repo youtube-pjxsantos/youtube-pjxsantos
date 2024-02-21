@@ -11,7 +11,7 @@ on:
   # executa em cada push no branch master
   push:
     branches:
-    - main
+    - master
     
   
 
